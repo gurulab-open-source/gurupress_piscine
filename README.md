@@ -16,14 +16,14 @@ Un nouveau dossier (guru_press) devrait être créer. Ouvrez votre éditeur de t
 
 ```bash
  cd guru_press
- atom
+ atom .
 ```
 
 ou
 
 ```bash
  cd guru_press
- code
+ code .
 ```
 
 si vous utilisez vscode (Visual Studio Code) comme éditeur. Ouvrez ensuite le fichier config.php à la racine du projet et le fichier tables.sql.
@@ -72,6 +72,8 @@ Le dossier static contient tout ce qui est statique, votre css et vos images pri
 Le dossier classes contient vos [classes](https://www.php.net/manual/fr/language.oop5.php). Généralement on associe une classe à une table comme c'est le cas pour ce projet.
 
 Voilà! Amusez vous bien!
+
+Merci à [Hā ruòdé](https://twitter.com/HaroldSilver), [Neeruam](https://twitter.com/Maureenovich) et [theComicsDealer](https://twitter.com/theComicsDealer)
 
 ## License
 
