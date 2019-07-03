@@ -35,7 +35,7 @@ define( "DB_USERNAME", "root" );
 define( "DB_PASSWORD", "" );
 ```
 
-Lancez, wamp. Ouvrez votre navigateur, allez sur http://localhostphpmyadmin
+Lancez, wamp. Ouvrez votre navigateur, allez sur http://localhost/phpmyadmin
 Entrez ensuite vos identifiants de connexion. Une fois connectés, créez une nouvelle base de données nommée "cms" (respectez la case).
 Cliquez ensuite sur votre nouvelle base de donnée. Une fois sur la page d'administration de votre base de données, cliquez sur importer.
 
